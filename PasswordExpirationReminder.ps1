@@ -38,9 +38,9 @@ end {
     }
 }
 #-----------------------------------------------------------[Execution]------------------------------------------------------------
-$SMTPserver= ”DC02.client-ict.local”
-$SenderMail = "support@client.nl"
-$EmailTemplate1 = "C:\Beheer\Scripts\HTMLtemplates\ClientPasswordExpirationMail.html"
+$SMTPserver= ””
+$SenderMail = ""
+$EmailTemplate1 = ""
 
 $expireindays1 = 5
 $expireindays2 = 2
